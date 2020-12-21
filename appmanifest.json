@@ -1,0 +1,9 @@
+{
+  "name": "CHGMKRS",
+  "short_name": "CHGMKRS",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/chgmkrs/"
+}
